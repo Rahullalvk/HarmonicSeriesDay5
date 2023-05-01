@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\bin\Debug\Harmonicnumber.exe.config
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\bin\Debug\Harmonicnumber.exe
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\bin\Debug\Harmonicnumber.pdb
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\obj\Debug\Harmonicnumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\obj\Debug\Harmonicnumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\obj\Debug\Harmonicnumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\obj\Debug\Harmonicnumber.exe
+C:\Users\Admin\Documents\Day_3\Harmonicnumber\Harmonicnumber\obj\Debug\Harmonicnumber.pdb
